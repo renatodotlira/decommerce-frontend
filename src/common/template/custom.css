@@ -1,0 +1,22 @@
+.wrapper {
+    background-color: #ffffff !important;
+}
+
+.card-icon {
+    margin-top: 15px;
+}
+
+.main-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+button {
+    margin-left: 5px;
+    margin-top: 3px;
+}
+
+.table-actions {
+    width: 150px;
+}
